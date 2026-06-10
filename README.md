@@ -29,7 +29,7 @@ Currently in progress (May - August 2026).
 
 # Files
 
-- explore_travel.py — Initial Python script that reads the workbook and outputs the structure of each tab.
+- explore_travel.py - Initial Python script that reads the workbook and outputs the structure of each tab.
 
 # Tools
 
@@ -37,4 +37,4 @@ Python (pandas, openpyxl, matplotlib), Excel (pivot tables, dashboards, forecast
 
 # Author
 
-Dipekshya Karki — Finance Research Intern, SBE, SUNY Plattsburgh
+Dipekshya Karki - Finance Research Intern, SBE, SUNY Plattsburgh
